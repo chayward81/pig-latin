@@ -22,9 +22,11 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 Behavior                    | Input         | Output       |
 ____________________________________________________________
-Word that starts with vowel | After         | Afterway     |
+Word that starts with vowel | After         | Afteray      |
 
-One or more consonants      | Latin         | atinLay      |
+One consonant               | Latin         | atinLay      |
+
+More than one consonant     | Trail         | ailTray       |
 
 One or more consonants
 that start with "Qu"        | Quotation     | otationQuay  |
@@ -34,6 +36,10 @@ followed with "Qu"          | Squeal        | Ealsquay     |
 
 Treat words starting with
 "Y" as a consonant          | Yellow        | Ellowyay     |
+
+Multiple word string        | Pig Latin     | igPay atinLay|
+
+
 
 
 ## Known Bugs
